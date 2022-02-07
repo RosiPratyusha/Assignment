@@ -12,3 +12,10 @@ C:\Users\Rosi P\source\repos\Assignment\PersonStaffStudent\PersonStaffStudent\ob
 C:\Users\Rosi P\source\repos\Assignment\PersonStaffStudent\PersonStaffStudent\bin\Debug\PersonStaffStudent.exe.config
 C:\Users\Rosi P\source\repos\Assignment\PersonStaffStudent\PersonStaffStudent\bin\Debug\PersonStaffStudent.exe
 C:\Users\Rosi P\source\repos\Assignment\PersonStaffStudent\PersonStaffStudent\bin\Debug\PersonStaffStudent.pdb
+C:\Users\Rosi P\source\repos\Git\PersonStaffStudent\PersonStaffStudent\bin\Debug\PersonStaffStudent.exe.config
+C:\Users\Rosi P\source\repos\Git\PersonStaffStudent\PersonStaffStudent\bin\Debug\PersonStaffStudent.exe
+C:\Users\Rosi P\source\repos\Git\PersonStaffStudent\PersonStaffStudent\bin\Debug\PersonStaffStudent.pdb
+C:\Users\Rosi P\source\repos\Git\PersonStaffStudent\PersonStaffStudent\obj\Debug\PersonStaffStudent.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\Git\PersonStaffStudent\PersonStaffStudent\obj\Debug\PersonStaffStudent.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\Git\PersonStaffStudent\PersonStaffStudent\obj\Debug\PersonStaffStudent.exe
+C:\Users\Rosi P\source\repos\Git\PersonStaffStudent\PersonStaffStudent\obj\Debug\PersonStaffStudent.pdb

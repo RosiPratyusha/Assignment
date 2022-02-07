@@ -10,18 +10,69 @@ namespace PersonStaffStudent
     {
         static void Main(string[] args)
         {
-                      
-            Person[] people = {
-                                new Person("Shyam", "Bangalore", "Karnataka", " fundamentals", 2010, 4500.0),
-                                new Person("Anand", "Bangalore"," Karnataka", "Delhi Public school", 35000.0),
-                                new Person("Umesh", "Bangalore", "Karnataka", "National Public school", 42000.0),
-                                new Person("Suresh", "Hassan", "Karnataka", " fundamentals", 2012, 4750.0),
-                                new Person("Kiran", "Vasco", "Goa", "Reactjs", 2017, 12500.0)
-                                };
+
+            person[] people = {
+                                new Student("Shyam", "Bangalore, Karnataka", " fundamentals", 2010, 4500.0),
+                                new Staff("Anand", "Bangalore, Karnataka", "Delhi Public school", 35000.0),
+                                new Staff("Umesh", "Bangalore, Karnataka", "National Public school", 42000.0),
+                                new Student("Suresh", "Hassan, Karnataka", " fundamentals", 2012, 4750.0),
+                                new Student("Kiran", "Vasco, Goa", "Reactjs", 2017, 12500.0)
+                              };
+            foreach (var item in people)
+            {
+                Console.WriteLine("Name: " + item.Name + " and Address: " + item.Address);
+                
+            }
+
             Console.ReadLine();
         }
+        public interface person
+        {
+            string Name { get; set; }
+
+            string Address { get; set; }
+
+        }
+        public class Student : person
+        {
+            public Student(string name, string address, string course, int year, double fee)
+            {
+                Name = name;
+                Address = address;
+                Course = course;
+                Year = year;
+                Fee = fee;
+            }
+
+            public string Name { get; set; }
+            public string Address { get; set; }
+
+            public string Course { get; set; }
+
+            public int Year { get; set; }
+
+            public double Fee { get; set; }
+        }
+
+        public class Staff : person
+        {
+            public Staff(string name, string address, string school, double salary)
+            {
+                Name = name;
+                Address = address;
+                Salary = salary;
+                School = school;
+            }
+            public string Name { get; set; }
+            public string Address { get; set; }
+
+            public string School { get; set; }
+
+            public double Salary { get; set; }
+        }
+
     }
-    
+
     public class Student
     {
         

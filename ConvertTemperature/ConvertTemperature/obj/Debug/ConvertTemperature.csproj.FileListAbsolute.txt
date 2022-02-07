@@ -1,0 +1,7 @@
+C:\Users\Rosi P\source\repos\ConvertTemperature\ConvertTemperature\bin\Debug\ConvertTemperature.exe.config
+C:\Users\Rosi P\source\repos\ConvertTemperature\ConvertTemperature\bin\Debug\ConvertTemperature.exe
+C:\Users\Rosi P\source\repos\ConvertTemperature\ConvertTemperature\bin\Debug\ConvertTemperature.pdb
+C:\Users\Rosi P\source\repos\ConvertTemperature\ConvertTemperature\obj\Debug\ConvertTemperature.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\ConvertTemperature\ConvertTemperature\obj\Debug\ConvertTemperature.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\ConvertTemperature\ConvertTemperature\obj\Debug\ConvertTemperature.exe
+C:\Users\Rosi P\source\repos\ConvertTemperature\ConvertTemperature\obj\Debug\ConvertTemperature.pdb

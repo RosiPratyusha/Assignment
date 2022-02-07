@@ -1,0 +1,6 @@
+C:\Users\Rosi P\source\repos\Pattern\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\Rosi P\source\repos\Pattern\Pattern\bin\Debug\Pattern.exe
+C:\Users\Rosi P\source\repos\Pattern\Pattern\bin\Debug\Pattern.pdb
+C:\Users\Rosi P\source\repos\Pattern\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\Pattern\Pattern\obj\Debug\Pattern.exe
+C:\Users\Rosi P\source\repos\Pattern\Pattern\obj\Debug\Pattern.pdb

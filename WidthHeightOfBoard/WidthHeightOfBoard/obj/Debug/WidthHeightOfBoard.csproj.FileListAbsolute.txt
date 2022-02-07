@@ -1,0 +1,6 @@
+C:\Users\Rosi P\source\repos\WidthHeightOfBoard\WidthHeightOfBoard\bin\Debug\WidthHeightOfBoard.exe.config
+C:\Users\Rosi P\source\repos\WidthHeightOfBoard\WidthHeightOfBoard\bin\Debug\WidthHeightOfBoard.exe
+C:\Users\Rosi P\source\repos\WidthHeightOfBoard\WidthHeightOfBoard\bin\Debug\WidthHeightOfBoard.pdb
+C:\Users\Rosi P\source\repos\WidthHeightOfBoard\WidthHeightOfBoard\obj\Debug\WidthHeightOfBoard.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\WidthHeightOfBoard\WidthHeightOfBoard\obj\Debug\WidthHeightOfBoard.exe
+C:\Users\Rosi P\source\repos\WidthHeightOfBoard\WidthHeightOfBoard\obj\Debug\WidthHeightOfBoard.pdb

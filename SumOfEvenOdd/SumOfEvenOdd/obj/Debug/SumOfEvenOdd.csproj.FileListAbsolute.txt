@@ -1,0 +1,7 @@
+C:\Users\Rosi P\source\repos\SumOfEvenOdd\SumOfEvenOdd\bin\Debug\SumOfEvenOdd.exe.config
+C:\Users\Rosi P\source\repos\SumOfEvenOdd\SumOfEvenOdd\bin\Debug\SumOfEvenOdd.exe
+C:\Users\Rosi P\source\repos\SumOfEvenOdd\SumOfEvenOdd\bin\Debug\SumOfEvenOdd.pdb
+C:\Users\Rosi P\source\repos\SumOfEvenOdd\SumOfEvenOdd\obj\Debug\SumOfEvenOdd.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\SumOfEvenOdd\SumOfEvenOdd\obj\Debug\SumOfEvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\SumOfEvenOdd\SumOfEvenOdd\obj\Debug\SumOfEvenOdd.exe
+C:\Users\Rosi P\source\repos\SumOfEvenOdd\SumOfEvenOdd\obj\Debug\SumOfEvenOdd.pdb

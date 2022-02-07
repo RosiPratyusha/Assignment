@@ -1,0 +1,7 @@
+C:\Users\Rosi P\source\repos\Shape\Shape\bin\Debug\Shape.exe.config
+C:\Users\Rosi P\source\repos\Shape\Shape\bin\Debug\Shape.exe
+C:\Users\Rosi P\source\repos\Shape\Shape\bin\Debug\Shape.pdb
+C:\Users\Rosi P\source\repos\Shape\Shape\obj\Debug\Shape.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\Shape\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\Shape\Shape\obj\Debug\Shape.exe
+C:\Users\Rosi P\source\repos\Shape\Shape\obj\Debug\Shape.pdb

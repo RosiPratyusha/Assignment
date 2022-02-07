@@ -1,0 +1,14 @@
+C:\Users\Rosi P\source\repos\DataInTabularForm\DataInTabularForm\bin\Debug\DataInTabularForm.exe.config
+C:\Users\Rosi P\source\repos\DataInTabularForm\DataInTabularForm\bin\Debug\DataInTabularForm.exe
+C:\Users\Rosi P\source\repos\DataInTabularForm\DataInTabularForm\bin\Debug\DataInTabularForm.pdb
+C:\Users\Rosi P\source\repos\DataInTabularForm\DataInTabularForm\obj\Debug\DataInTabularForm.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\DataInTabularForm\DataInTabularForm\obj\Debug\DataInTabularForm.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\DataInTabularForm\DataInTabularForm\obj\Debug\DataInTabularForm.exe
+C:\Users\Rosi P\source\repos\DataInTabularForm\DataInTabularForm\obj\Debug\DataInTabularForm.pdb
+C:\Users\Rosi P\source\repos\Assignment\DataInTabularForm\DataInTabularForm\bin\Debug\DataInTabularForm.exe.config
+C:\Users\Rosi P\source\repos\Assignment\DataInTabularForm\DataInTabularForm\bin\Debug\DataInTabularForm.exe
+C:\Users\Rosi P\source\repos\Assignment\DataInTabularForm\DataInTabularForm\bin\Debug\DataInTabularForm.pdb
+C:\Users\Rosi P\source\repos\Assignment\DataInTabularForm\DataInTabularForm\obj\Debug\DataInTabularForm.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\Assignment\DataInTabularForm\DataInTabularForm\obj\Debug\DataInTabularForm.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\Assignment\DataInTabularForm\DataInTabularForm\obj\Debug\DataInTabularForm.exe
+C:\Users\Rosi P\source\repos\Assignment\DataInTabularForm\DataInTabularForm\obj\Debug\DataInTabularForm.pdb

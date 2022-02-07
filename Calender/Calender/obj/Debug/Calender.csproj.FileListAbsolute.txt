@@ -1,0 +1,14 @@
+C:\Users\Rosi P\source\repos\Calender\Calender\bin\Debug\Calender.exe.config
+C:\Users\Rosi P\source\repos\Calender\Calender\bin\Debug\Calender.exe
+C:\Users\Rosi P\source\repos\Calender\Calender\bin\Debug\Calender.pdb
+C:\Users\Rosi P\source\repos\Calender\Calender\obj\Debug\Calender.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\Calender\Calender\obj\Debug\Calender.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\Calender\Calender\obj\Debug\Calender.exe
+C:\Users\Rosi P\source\repos\Calender\Calender\obj\Debug\Calender.pdb
+C:\Users\Rosi P\source\repos\Assignment\Calender\Calender\bin\Debug\Calender.exe.config
+C:\Users\Rosi P\source\repos\Assignment\Calender\Calender\bin\Debug\Calender.exe
+C:\Users\Rosi P\source\repos\Assignment\Calender\Calender\bin\Debug\Calender.pdb
+C:\Users\Rosi P\source\repos\Assignment\Calender\Calender\obj\Debug\Calender.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\Assignment\Calender\Calender\obj\Debug\Calender.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\Assignment\Calender\Calender\obj\Debug\Calender.exe
+C:\Users\Rosi P\source\repos\Assignment\Calender\Calender\obj\Debug\Calender.pdb

@@ -1,0 +1,7 @@
+C:\Users\Rosi P\source\repos\CountIntegerNoninteger\CountIntegerNoninteger\bin\Debug\CountIntegerNoninteger.exe.config
+C:\Users\Rosi P\source\repos\CountIntegerNoninteger\CountIntegerNoninteger\bin\Debug\CountIntegerNoninteger.exe
+C:\Users\Rosi P\source\repos\CountIntegerNoninteger\CountIntegerNoninteger\bin\Debug\CountIntegerNoninteger.pdb
+C:\Users\Rosi P\source\repos\CountIntegerNoninteger\CountIntegerNoninteger\obj\Debug\CountIntegerNoninteger.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\CountIntegerNoninteger\CountIntegerNoninteger\obj\Debug\CountIntegerNoninteger.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\CountIntegerNoninteger\CountIntegerNoninteger\obj\Debug\CountIntegerNoninteger.exe
+C:\Users\Rosi P\source\repos\CountIntegerNoninteger\CountIntegerNoninteger\obj\Debug\CountIntegerNoninteger.pdb

@@ -1,0 +1,7 @@
+C:\Users\Rosi P\source\repos\isPrimeNumber\isPrimeNumber\bin\Debug\isPrimeNumber.exe.config
+C:\Users\Rosi P\source\repos\isPrimeNumber\isPrimeNumber\bin\Debug\isPrimeNumber.exe
+C:\Users\Rosi P\source\repos\isPrimeNumber\isPrimeNumber\bin\Debug\isPrimeNumber.pdb
+C:\Users\Rosi P\source\repos\isPrimeNumber\isPrimeNumber\obj\Debug\isPrimeNumber.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\isPrimeNumber\isPrimeNumber\obj\Debug\isPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\isPrimeNumber\isPrimeNumber\obj\Debug\isPrimeNumber.exe
+C:\Users\Rosi P\source\repos\isPrimeNumber\isPrimeNumber\obj\Debug\isPrimeNumber.pdb

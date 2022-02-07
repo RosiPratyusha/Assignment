@@ -1,0 +1,13 @@
+C:\Users\Rosi P\source\repos\HouseAppartment\HouseAppartment\obj\Debug\HouseAppartment.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\HouseAppartment\HouseAppartment\bin\Debug\HouseAppartment.exe.config
+C:\Users\Rosi P\source\repos\HouseAppartment\HouseAppartment\bin\Debug\HouseAppartment.exe
+C:\Users\Rosi P\source\repos\HouseAppartment\HouseAppartment\bin\Debug\HouseAppartment.pdb
+C:\Users\Rosi P\source\repos\HouseAppartment\HouseAppartment\obj\Debug\HouseAppartment.exe
+C:\Users\Rosi P\source\repos\HouseAppartment\HouseAppartment\obj\Debug\HouseAppartment.pdb
+C:\Users\Rosi P\source\repos\Assignment\HouseAppartment\HouseAppartment\bin\Debug\HouseAppartment.exe.config
+C:\Users\Rosi P\source\repos\Assignment\HouseAppartment\HouseAppartment\bin\Debug\HouseAppartment.exe
+C:\Users\Rosi P\source\repos\Assignment\HouseAppartment\HouseAppartment\bin\Debug\HouseAppartment.pdb
+C:\Users\Rosi P\source\repos\Assignment\HouseAppartment\HouseAppartment\obj\Debug\HouseAppartment.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\Assignment\HouseAppartment\HouseAppartment\obj\Debug\HouseAppartment.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\Assignment\HouseAppartment\HouseAppartment\obj\Debug\HouseAppartment.exe
+C:\Users\Rosi P\source\repos\Assignment\HouseAppartment\HouseAppartment\obj\Debug\HouseAppartment.pdb

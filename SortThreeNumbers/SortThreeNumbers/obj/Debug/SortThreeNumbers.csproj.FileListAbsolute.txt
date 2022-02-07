@@ -1,0 +1,7 @@
+C:\Users\Rosi P\source\repos\SortThreeNumbers\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe.config
+C:\Users\Rosi P\source\repos\SortThreeNumbers\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe
+C:\Users\Rosi P\source\repos\SortThreeNumbers\SortThreeNumbers\bin\Debug\SortThreeNumbers.pdb
+C:\Users\Rosi P\source\repos\SortThreeNumbers\SortThreeNumbers\obj\Debug\SortThreeNumbers.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\SortThreeNumbers\SortThreeNumbers\obj\Debug\SortThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\SortThreeNumbers\SortThreeNumbers\obj\Debug\SortThreeNumbers.exe
+C:\Users\Rosi P\source\repos\SortThreeNumbers\SortThreeNumbers\obj\Debug\SortThreeNumbers.pdb

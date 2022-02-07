@@ -1,0 +1,14 @@
+C:\Users\Rosi P\source\repos\SinOfNumber\SinOfNumber\bin\Debug\SinOfNumber.exe.config
+C:\Users\Rosi P\source\repos\SinOfNumber\SinOfNumber\bin\Debug\SinOfNumber.exe
+C:\Users\Rosi P\source\repos\SinOfNumber\SinOfNumber\bin\Debug\SinOfNumber.pdb
+C:\Users\Rosi P\source\repos\SinOfNumber\SinOfNumber\obj\Debug\SinOfNumber.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\SinOfNumber\SinOfNumber\obj\Debug\SinOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\SinOfNumber\SinOfNumber\obj\Debug\SinOfNumber.exe
+C:\Users\Rosi P\source\repos\SinOfNumber\SinOfNumber\obj\Debug\SinOfNumber.pdb
+C:\Users\Rosi P\source\repos\Assignment\SinOfNumber\SinOfNumber\bin\Debug\SinOfNumber.exe.config
+C:\Users\Rosi P\source\repos\Assignment\SinOfNumber\SinOfNumber\bin\Debug\SinOfNumber.exe
+C:\Users\Rosi P\source\repos\Assignment\SinOfNumber\SinOfNumber\bin\Debug\SinOfNumber.pdb
+C:\Users\Rosi P\source\repos\Assignment\SinOfNumber\SinOfNumber\obj\Debug\SinOfNumber.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\Assignment\SinOfNumber\SinOfNumber\obj\Debug\SinOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\Assignment\SinOfNumber\SinOfNumber\obj\Debug\SinOfNumber.exe
+C:\Users\Rosi P\source\repos\Assignment\SinOfNumber\SinOfNumber\obj\Debug\SinOfNumber.pdb

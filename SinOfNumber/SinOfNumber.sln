@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1778
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinOfNumber", "SinOfNumber\SinOfNumber.csproj", "{031870C0-0E8A-46BB-AB61-E5839CB85D01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031870C0-0E8A-46BB-AB61-E5839CB85D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031870C0-0E8A-46BB-AB61-E5839CB85D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031870C0-0E8A-46BB-AB61-E5839CB85D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031870C0-0E8A-46BB-AB61-E5839CB85D01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B4CD5A9-EC12-4065-88B3-36A8505544BB}
+	EndGlobalSection
+EndGlobal

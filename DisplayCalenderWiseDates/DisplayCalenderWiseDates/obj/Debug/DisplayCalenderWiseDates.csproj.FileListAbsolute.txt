@@ -1,0 +1,7 @@
+C:\Users\Rosi P\source\repos\DisplayCalenderWiseDates\DisplayCalenderWiseDates\bin\Debug\DisplayCalenderWiseDates.exe.config
+C:\Users\Rosi P\source\repos\DisplayCalenderWiseDates\DisplayCalenderWiseDates\bin\Debug\DisplayCalenderWiseDates.exe
+C:\Users\Rosi P\source\repos\DisplayCalenderWiseDates\DisplayCalenderWiseDates\bin\Debug\DisplayCalenderWiseDates.pdb
+C:\Users\Rosi P\source\repos\DisplayCalenderWiseDates\DisplayCalenderWiseDates\obj\Debug\DisplayCalenderWiseDates.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\DisplayCalenderWiseDates\DisplayCalenderWiseDates\obj\Debug\DisplayCalenderWiseDates.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\DisplayCalenderWiseDates\DisplayCalenderWiseDates\obj\Debug\DisplayCalenderWiseDates.exe
+C:\Users\Rosi P\source\repos\DisplayCalenderWiseDates\DisplayCalenderWiseDates\obj\Debug\DisplayCalenderWiseDates.pdb

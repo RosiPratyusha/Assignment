@@ -1,0 +1,7 @@
+C:\Users\Rosi P\source\repos\ConvertAmountWords\ConvertAmountWords\bin\Debug\ConvertAmountWords.exe.config
+C:\Users\Rosi P\source\repos\ConvertAmountWords\ConvertAmountWords\bin\Debug\ConvertAmountWords.exe
+C:\Users\Rosi P\source\repos\ConvertAmountWords\ConvertAmountWords\bin\Debug\ConvertAmountWords.pdb
+C:\Users\Rosi P\source\repos\ConvertAmountWords\ConvertAmountWords\obj\Debug\ConvertAmountWords.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\ConvertAmountWords\ConvertAmountWords\obj\Debug\ConvertAmountWords.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\ConvertAmountWords\ConvertAmountWords\obj\Debug\ConvertAmountWords.exe
+C:\Users\Rosi P\source\repos\ConvertAmountWords\ConvertAmountWords\obj\Debug\ConvertAmountWords.pdb

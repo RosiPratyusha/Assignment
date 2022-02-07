@@ -1,0 +1,14 @@
+C:\Users\Rosi P\source\repos\AverageOfRealNumbers\AverageOfRealNumbers\bin\Debug\AverageOfRealNumbers.exe.config
+C:\Users\Rosi P\source\repos\AverageOfRealNumbers\AverageOfRealNumbers\bin\Debug\AverageOfRealNumbers.exe
+C:\Users\Rosi P\source\repos\AverageOfRealNumbers\AverageOfRealNumbers\bin\Debug\AverageOfRealNumbers.pdb
+C:\Users\Rosi P\source\repos\AverageOfRealNumbers\AverageOfRealNumbers\obj\Debug\AverageOfRealNumbers.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\AverageOfRealNumbers\AverageOfRealNumbers\obj\Debug\AverageOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\AverageOfRealNumbers\AverageOfRealNumbers\obj\Debug\AverageOfRealNumbers.exe
+C:\Users\Rosi P\source\repos\AverageOfRealNumbers\AverageOfRealNumbers\obj\Debug\AverageOfRealNumbers.pdb
+C:\Users\Rosi P\source\repos\Assignment\AverageOfRealNumbers\AverageOfRealNumbers\bin\Debug\AverageOfRealNumbers.exe.config
+C:\Users\Rosi P\source\repos\Assignment\AverageOfRealNumbers\AverageOfRealNumbers\bin\Debug\AverageOfRealNumbers.exe
+C:\Users\Rosi P\source\repos\Assignment\AverageOfRealNumbers\AverageOfRealNumbers\bin\Debug\AverageOfRealNumbers.pdb
+C:\Users\Rosi P\source\repos\Assignment\AverageOfRealNumbers\AverageOfRealNumbers\obj\Debug\AverageOfRealNumbers.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\Assignment\AverageOfRealNumbers\AverageOfRealNumbers\obj\Debug\AverageOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\Assignment\AverageOfRealNumbers\AverageOfRealNumbers\obj\Debug\AverageOfRealNumbers.exe
+C:\Users\Rosi P\source\repos\Assignment\AverageOfRealNumbers\AverageOfRealNumbers\obj\Debug\AverageOfRealNumbers.pdb

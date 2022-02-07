@@ -1,0 +1,14 @@
+C:\Users\Rosi P\source\repos\PersonStaffStudent\PersonStaffStudent\bin\Debug\PersonStaffStudent.exe.config
+C:\Users\Rosi P\source\repos\PersonStaffStudent\PersonStaffStudent\bin\Debug\PersonStaffStudent.exe
+C:\Users\Rosi P\source\repos\PersonStaffStudent\PersonStaffStudent\bin\Debug\PersonStaffStudent.pdb
+C:\Users\Rosi P\source\repos\PersonStaffStudent\PersonStaffStudent\obj\Debug\PersonStaffStudent.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\PersonStaffStudent\PersonStaffStudent\obj\Debug\PersonStaffStudent.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\PersonStaffStudent\PersonStaffStudent\obj\Debug\PersonStaffStudent.exe
+C:\Users\Rosi P\source\repos\PersonStaffStudent\PersonStaffStudent\obj\Debug\PersonStaffStudent.pdb
+C:\Users\Rosi P\source\repos\Assignment\PersonStaffStudent\PersonStaffStudent\obj\Debug\PersonStaffStudent.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\Assignment\PersonStaffStudent\PersonStaffStudent\obj\Debug\PersonStaffStudent.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\Assignment\PersonStaffStudent\PersonStaffStudent\obj\Debug\PersonStaffStudent.exe
+C:\Users\Rosi P\source\repos\Assignment\PersonStaffStudent\PersonStaffStudent\obj\Debug\PersonStaffStudent.pdb
+C:\Users\Rosi P\source\repos\Assignment\PersonStaffStudent\PersonStaffStudent\bin\Debug\PersonStaffStudent.exe.config
+C:\Users\Rosi P\source\repos\Assignment\PersonStaffStudent\PersonStaffStudent\bin\Debug\PersonStaffStudent.exe
+C:\Users\Rosi P\source\repos\Assignment\PersonStaffStudent\PersonStaffStudent\bin\Debug\PersonStaffStudent.pdb

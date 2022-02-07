@@ -1,0 +1,14 @@
+C:\Users\Rosi P\source\repos\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+C:\Users\Rosi P\source\repos\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe
+C:\Users\Rosi P\source\repos\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+C:\Users\Rosi P\source\repos\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+C:\Users\Rosi P\source\repos\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
+C:\Users\Rosi P\source\repos\Assignment\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+C:\Users\Rosi P\source\repos\Assignment\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe
+C:\Users\Rosi P\source\repos\Assignment\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+C:\Users\Rosi P\source\repos\Assignment\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csprojAssemblyReference.cache
+C:\Users\Rosi P\source\repos\Assignment\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\Rosi P\source\repos\Assignment\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+C:\Users\Rosi P\source\repos\Assignment\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb

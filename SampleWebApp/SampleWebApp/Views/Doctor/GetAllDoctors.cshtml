@@ -12,6 +12,12 @@
     <title>GetAllDoctors</title>
 </head>
 <body>
+    <h1>Hospital Management Software</h1>
+    <hr />
+    <nav>
+        @Html.ActionLink("Register New Doctor", "AddNewDoctor")
+       
+    </nav>
     <div>
         <h1>List of all Doctors</h1>
         <hr />
@@ -34,6 +40,7 @@
                     <td>@doc.City</td>
                     <td>@doc.Contact</td>
                     <td>@Html.ActionLink("Edit", "OnEdit", new { id = doc.Id })</td>
+                    <td> @Html.ActionLink("Remove","RemoveDoctor", new { id = doc.Id })</td>
                 </tr>
             }
         </table>

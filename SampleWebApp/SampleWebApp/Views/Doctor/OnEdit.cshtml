@@ -1,0 +1,50 @@
+﻿@model SampleWebApp.Models.Doctor
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>OnEdit</title>
+</head>
+<body>
+    <div>
+        <h1>Details of @Model.DocName</h1>
+        <hr />
+        @using (Html.BeginForm())
+        {
+            <p>
+                @Html.LabelFor((m) => m.Id)
+                @Html.DisplayFor((m) => m.Id)
+                @Html.HiddenFor((m) => m.Id)
+            </p>
+            <p>
+                @Html.LabelFor((m) => m.DocName)
+                @Html.TextBoxFor((m) => m.DocName)
+            </p>
+            <p>
+                @Html.LabelFor((m) => m.Specialization)
+                @Html.TextBoxFor((m) => m.Specialization)
+            </p>
+            <p>
+                @Html.LabelFor((m) => m.HospitalName)
+                @Html.TextBoxFor((m) => m.HospitalName)
+            </p>
+            <p>
+                @Html.LabelFor((m) => m.City)
+                @Html.TextBoxFor((m) => m.City)
+            </p>
+            <p>
+                @Html.LabelFor((m) => m.Contact)
+                @Html.TextBoxFor((m) => m.Contact)
+            </p>
+
+            <button>Update</button>
+        }
+    </div>
+</body>
+</html>

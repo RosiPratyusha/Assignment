@@ -108,6 +108,8 @@
     <None Include="packages.config" />
     <Content Include="Views\BasicExample\EmpDetails.cshtml" />
     <Content Include="Views\Doctor\GetAllDoctors.cshtml" />
+    <Content Include="Views\Doctor\OnEdit.cshtml" />
+    <Content Include="Views\Doctor\AddNewDoctor.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

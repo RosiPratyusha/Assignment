@@ -94,6 +94,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\BasicExampleController.cs" />
+    <Compile Include="Controllers\CalculatorController.cs" />
     <Compile Include="Controllers\DoctorController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -110,6 +111,7 @@
     <Content Include="Views\Doctor\GetAllDoctors.cshtml" />
     <Content Include="Views\Doctor\OnEdit.cshtml" />
     <Content Include="Views\Doctor\AddNewDoctor.cshtml" />
+    <Content Include="Views\Calculator\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

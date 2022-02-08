@@ -1,0 +1,42 @@
+﻿@model List<SampleWebApp.Models.Doctor>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetAllDoctors</title>
+</head>
+<body>
+    <div>
+        <h1>List of all Doctors</h1>
+        <hr />
+        <table border="1">
+            <tr>
+                <th>ID</th>
+                <th>NAME</th>
+                <th>SPECIALIZATION</th>
+                <th>HOSPITAL</th>
+                <th>CITY</th>
+                <th>CONTACT</th>
+            </tr>
+            @foreach (var doc in Model)
+            {
+                <tr>
+                    <td>@doc.Id</td>
+                    <td>@doc.DocName</td>
+                    <td>@doc.Specialization</td>
+                    <td>@doc.HospitalName</td>
+                    <td>@doc.City</td>
+                    <td>@doc.Contact</td>
+                    <td>@Html.ActionLink("Edit", "OnEdit", new { id = doc.Id })</td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>
